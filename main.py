@@ -11,3 +11,4 @@ def mul(a, b):
 
 def divide(a, b):
     return a / b
+# now in the main i added something cool!!!
