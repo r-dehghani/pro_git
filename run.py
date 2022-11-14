@@ -1,2 +1,5 @@
 print("hello world!!!")
-# this is hello world program .
+
+
+def add(a, b):
+    return a + b
